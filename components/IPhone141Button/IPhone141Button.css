@@ -1,0 +1,355 @@
+.iphone-14-1-button {
+  align-items: center;
+  background: linear-gradient(180deg, rgb(216, 192, 177) 0%, rgb(251.09, 246.28, 240.63) 80.8%, rgba(63, 61, 86, 0.78) 100%);
+  background-color: rgba(255,255,255,1.0);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.navbar-logo-left {
+  align-items: flex-start;
+  align-self: flex-end;
+  background-color: var(--white);
+  display: flex;
+  justify-content: center;
+  margin-right: -1293.64px;
+  margin-top: -864px;
+  padding: 0px 24px;
+  position: relative;
+  width: 1440px;
+}
+
+.navbar-container {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+  width: 1200px;
+}
+
+.navbar-content {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  position: relative;
+  width: 1200px;
+}
+
+.navbar-brand {
+  height: 36px;
+  margin-bottom: -2632.55px;
+  min-width: 141px;
+  position: relative;
+}
+
+.navbar-menu {
+  align-items: center;
+  display: flex;
+  gap: 32px;
+  position: relative;
+  width: fit-content;
+}
+
+.navbar-link {
+  align-items: flex-start;
+  display: flex;
+  padding: 24px 12px;
+  position: relative;
+  width: fit-content;
+}
+
+.about,
+.features,
+.pricing {
+  letter-spacing: 0;
+  line-height: 21px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navbar-button {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 8px 20px;
+  position: relative;
+  width: fit-content;
+}
+
+.get-started {
+  color: var(--white);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  letter-spacing: 0;
+  line-height: 16.8px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.overlap-group1 {
+  height: 333px;
+  margin-left: 4.0px;
+  margin-top: 86px;
+  position: relative;
+  width: 336px;
+}
+
+.view {
+  display: flex;
+  height: 260px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 336px;
+}
+
+.undraw_digital_currency_qpak-1 {
+  height: 260px;
+  position: relative;
+  width: 336px;
+}
+
+.overlap-group {
+  height: 125px;
+  left: 12px;
+  position: absolute;
+  top: 135px;
+  width: 324px;
+}
+
+.group-4 {
+  height: 78px;
+  left: 247px;
+  position: absolute;
+  top: 47px;
+  width: 78px;
+}
+
+.vector {
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 124px;
+  width: 305px;
+}
+
+.vector-1 {
+  height: 35px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 31px;
+}
+
+.vector-2 {
+  height: 35px;
+  left: 32px;
+  position: absolute;
+  top: 42px;
+  width: 31px;
+}
+
+.vector-3 {
+  height: 35px;
+  left: 0;
+  position: absolute;
+  top: 75px;
+  width: 31px;
+}
+
+.vector-4 {
+  height: 32px;
+  left: 14px;
+  position: absolute;
+  top: 92px;
+  width: 2px;
+}
+
+.vector-5 {
+  height: 9px;
+  left: 11px;
+  position: absolute;
+  top: 88px;
+  width: 8px;
+}
+
+.vector-6 {
+  height: 12px;
+  left: 3px;
+  position: absolute;
+  top: 100px;
+  width: 12px;
+}
+
+.vector-7 {
+  height: 107px;
+  left: 73px;
+  position: absolute;
+  top: 18px;
+  width: 2px;
+}
+
+.vector-8 {
+  height: 9px;
+  left: 70px;
+  position: absolute;
+  top: 13px;
+  width: 8px;
+}
+
+.vector-9 {
+  height: 9px;
+  left: 58px;
+  position: absolute;
+  top: 90px;
+  width: 8px;
+}
+
+.vector-10 {
+  height: 12px;
+  left: 62px;
+  position: absolute;
+  top: 28px;
+  width: 12px;
+}
+
+.vector-11 {
+  height: 12px;
+  left: 62px;
+  position: absolute;
+  top: 68px;
+  width: 12px;
+}
+
+.vector-12 {
+  height: 29px;
+  left: 62px;
+  position: absolute;
+  top: 94px;
+  width: 13px;
+}
+
+.vector-13 {
+  height: 9px;
+  left: 82px;
+  position: absolute;
+  top: 90px;
+  width: 8px;
+}
+
+.vector-14 {
+  height: 29px;
+  left: 73px;
+  position: absolute;
+  top: 94px;
+  width: 13px;
+}
+
+.vector-15 {
+  height: 9px;
+  left: 82px;
+  position: absolute;
+  top: 48px;
+  width: 8px;
+}
+
+.vector-16 {
+  height: 28px;
+  left: 73px;
+  position: absolute;
+  top: 51px;
+  width: 13px;
+}
+
+.vector-17 {
+  height: 65px;
+  left: 47px;
+  position: absolute;
+  top: 59px;
+  width: 2px;
+}
+
+.vector-18 {
+  height: 9px;
+  left: 44px;
+  position: absolute;
+  top: 55px;
+  width: 8px;
+}
+
+.vector-19 {
+  height: 12px;
+  left: 35px;
+  position: absolute;
+  top: 65px;
+  width: 12px;
+}
+
+.vector-20 {
+  height: 29px;
+  left: 35px;
+  position: absolute;
+  top: 94px;
+  width: 13px;
+}
+
+.vector-21 {
+  height: 9px;
+  left: 32px;
+  position: absolute;
+  top: 91px;
+  width: 8px;
+}
+
+.vector-22 {
+  height: 15px;
+  left: 269px;
+  position: absolute;
+  top: 145px;
+  width: 13px;
+}
+
+.vector-23 {
+  height: 15px;
+  left: 17px;
+  position: absolute;
+  top: 171px;
+  width: 13px;
+}
+
+.x1 {
+  height: 253px;
+  left: 92px;
+  object-fit: cover;
+  position: absolute;
+  top: 41px;
+  width: 195px;
+}
+
+.text-3 {
+  color: var(--black);
+  direction: rtl;
+  font-family: var(--font-family-noto_sans_arabic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  left: 31px;
+  letter-spacing: 0;
+  line-height: normal;
+  mix-blend-mode: color-burn;
+  position: absolute;
+  top: 274px;
+  width: 273px;
+}
+

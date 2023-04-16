@@ -1,0 +1,30 @@
+:root { 
+  --black: #000000;
+  --gun-powder: #3f3d56;
+  --white: #ffffff;
+ 
+  --font-size-l: 16px;
+  --font-size-m: 15px;
+  --font-size-s: 14px;
+  --font-size-xl2: 35px;
+  --font-size-xs: 12px;
+ 
+  --font-family-cairo: "Cairo", Helvetica;
+  --font-family-inter: "Inter", Helvetica;
+  --font-family-noto_sans_arabic: "Noto Sans Arabic", Helvetica;
+}
+.inter-normal-black-14px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.inter-normal-black-16px {
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
